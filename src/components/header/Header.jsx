@@ -16,7 +16,7 @@ function Header() {
       <HeaderDiv>
         <LogoTitle>
           <Logo />
-          <Title> FEWD Hometask 2</Title>
+          <Title> Simple Auth</Title>
         </LogoTitle>
         {!authService.isAuthorized() ? (
           <>

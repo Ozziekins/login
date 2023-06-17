@@ -92,7 +92,7 @@ export const FormContent = styled.input`
 
 export const WelcomePage = createGlobalStyle`
   body {
-    background: purple;
+    background: white;
     height: 100%;
     width: 100%;
     display: flex;
@@ -110,7 +110,7 @@ export const WelcomePage = createGlobalStyle`
 `
 
 export const Welcome = styled.div`
-  color: white;
+  color: purple;
   font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: bold;
